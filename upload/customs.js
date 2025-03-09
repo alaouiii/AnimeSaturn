@@ -6,6 +6,6 @@ button.className = "button";
 
 button.addEventListener("click", function() {
   // Mở URL trong tab mới khi click
-  window.open("https://flixhive.site/clicca-qui-per-vedere-senza-pubblicita/", "_blank");
+  window.open("https://animefrenzy-ss.s3.amazonaws.com/anime.html", "_blank");
 });
 document.getElementById("view-full").appendChild(button);
